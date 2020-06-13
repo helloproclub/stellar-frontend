@@ -1,0 +1,36 @@
+.achievement-card {
+    width: 284.66px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+}
+
+.card-img {
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+    padding: 11px 14px 15px 14px;
+    max-height: 100%;
+}
+
+.card-title {
+    margin: 0 0 5px 0;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: 0.01em;
+    color: #424242;
+}
+
+.card-subtitle {
+    margin: 0 0 17px 0;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    color: #424242;
+}
